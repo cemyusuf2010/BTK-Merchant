@@ -1,6 +1,12 @@
 # BTK-Merchant
 BTK Hackathon 2026 
 
+<img width="880" height="842" alt="2" src="https://github.com/user-attachments/assets/b0ddeea1-5e5a-4117-9b0f-c6209370296a" />
+<img width="983" height="1043" alt="1" src="https://github.com/user-attachments/assets/db311123-1978-4249-bb73-78dab9583c06" />
+<img width="2547" height="1396" alt="4" src="https://github.com/user-attachments/assets/9a63e18f-a69a-4be4-97aa-f69f4f732fe7" />
+<img width="1938" height="1424" alt="3" src="https://github.com/user-attachments/assets/e604f9e6-f359-45ec-8a73-0267ce222830" />
+
+
 # The Synthetic Merchant
 
 > Ürününüzü satmadan önce yapay zeka müşterilere test ettirin.
